@@ -89,8 +89,8 @@ function updateInv() {
             id: purchaseId
           }
         ],
-        function(error) {
-          if (error) throw err;
+        function(err) {
+          if (err) throw err;
           console.log("Inventory Updated");
           console.log("================================================")
 
