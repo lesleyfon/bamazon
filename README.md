@@ -1,4 +1,4 @@
-# BAMazon
+# Bamazon
 
 Created during Week 6 of UC Berkeley Coding Bootcamp. The goal was to create an Amazon-like store front using Node.js and MySQL.
 
