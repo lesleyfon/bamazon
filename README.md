@@ -7,13 +7,13 @@ Created during Week 6 of UC Berkeley Coding Bootcamp. The goal was to create an 
 - Clone repo.
 - Run command in Terminal or Gitbash 'npm install'
 - Run command depending which mode you would like to be on:
-    * Customer - 'npm run customer'
-    * Manager - 'npm run manager'
+    * Customer - 'node bamazon.js'
+    * Manager - 'node managerbamazon.js'
 - Run 'ctrl + c' to exit each mode
 
 ### What Each JavaScript Does
 
-1. `BamazonCustomer.js`
+1. `bamazon.js`
 
     * Prints the products in the store.
 
@@ -28,7 +28,7 @@ Created during Week 6 of UC Berkeley Coding Bootcamp. The goal was to create an 
 
 -----------------------
 
-2. `BamazonManager.js`
+2. `managerbamazon.js`
 
     * Starts with a menu:
         * View Products for Sale
